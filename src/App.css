@@ -1,0 +1,54 @@
+body {
+  background-color: black;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.bg img {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  /* transform: rotate(360deg); */
+  /* transition: all 5s; */
+  filter: drop-shadow(0px 0px 200px rgb(0, 78, 109));
+  animation: rotation 5000s linear infinite;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(3600deg);
+  }
+}
+
+@media (max-width: 375px) {
+  .bg img {
+    top: 70%;
+  }
+}
+
+/* .result {
+  position: relative;
+}
+
+.result::after {
+  content: "";
+  position: absolute;
+  width: 5%;
+  transform: skew(-10deg);
+  background-color: gray;
+  height: 100%;
+  left: 0;
+  animation: anime 2s infinite;
+} */
+
+/* @keyframes anime {
+  0% {
+    left: -20%;
+  }
+  100% {
+    left: 120%;
+  }
+} */
