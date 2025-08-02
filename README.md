@@ -9,13 +9,13 @@ simple web application for know your and other city weather like temprature, win
 - [Installation](#installation)
 - [Contact](#contact)
 
-## Important Links
+## Links
 
 Project Link: https://github.com/it-Shoeb/knowweather
 
 Project Live: https://knowweather-red.vercel.app/
 
-## Screenshots & Preview
+## Preview
 
 ![Preview](/knowWeather-sample.gif)
 
@@ -23,7 +23,7 @@ Project Live: https://knowweather-red.vercel.app/
 
 Clone the repository and install dependencies.
 
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/it-Shoeb/knowweather.git
 
 npm install
 
