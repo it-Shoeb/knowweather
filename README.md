@@ -4,8 +4,8 @@ simple web application for know your and other city weather like temprature, win
 
 ## Table of Contents
 
-- [Important Links](#importantlinks)
-- [Screenshots & Preview](#screenshots&preview)
+- [Links](#links)
+- [Preview](#preview)
 - [Installation](#installation)
 - [Contact](#contact)
 
